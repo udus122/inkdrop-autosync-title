@@ -1,10 +1,10 @@
 {
-  "name": "inkdrop-autocopy-title",
-  "main": "./lib/inkdrop-autocopy-title",
+  "name": "autocopy-title",
+  "main": "./lib/index",
   "version": "0.0.0",
-  "description": "copy note title to body as H1 on save",
+  "description": "Automatically sync title and heading 1 when notes are saved.",
   "keywords": [],
-  "repository": "https://github.com/yudai1202/inkdrop-autocopy-title",
+  "repository": "https://github.com/yudai1202/inkdrop-autosync-title",
   "license": "MIT",
   "engines": {
     "inkdrop": "^5.x"
