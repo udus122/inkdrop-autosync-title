@@ -1,7 +1,7 @@
 {
-  "name": "autocopy-title",
+  "name": "autosync-title",
   "main": "./lib/index",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "Automatically sync title and heading 1 when notes are saved.",
   "keywords": [],
   "repository": "https://github.com/yudai1202/inkdrop-autosync-title",
