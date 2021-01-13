@@ -1,0 +1,19 @@
+{
+  "name": "inkdrop-autocopy-title",
+  "main": "./lib/inkdrop-autocopy-title",
+  "version": "0.0.0",
+  "description": "copy note title to body as H1 on save",
+  "keywords": [],
+  "repository": "https://github.com/inkdropapp/inkdrop-autocopy-title",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^5.x"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.17.0",
+    "eslint-config-prettier": "^7.1.0",
+    "eslint-plugin-import": "^2.22.1",
+    "prettier": "^2.2.1"
+  }
+}

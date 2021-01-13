@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    ".CodeMirror": [
+      {
+        "label": "Toggle inkdrop-autocopy-title",
+        "command": "inkdrop-autocopy-title:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "inkdrop-autocopy-title",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "inkdrop-autocopy-title:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
