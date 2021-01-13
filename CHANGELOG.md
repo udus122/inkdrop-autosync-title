@@ -2,5 +2,4 @@
 
 ## 0.1.0 - First Release
 
-- Every feature added
-- Every bug fixed
+- feature of copying title to h1 added
