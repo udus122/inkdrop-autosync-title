@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "description": "copy note title to body as H1 on save",
   "keywords": [],
-  "repository": "https://github.com/inkdropapp/inkdrop-autocopy-title",
+  "repository": "https://github.com/yudai1202/inkdrop-autocopy-title",
   "license": "MIT",
   "engines": {
     "inkdrop": "^5.x"
